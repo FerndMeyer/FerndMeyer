@@ -1,5 +1,5 @@
 ## Ola, Eu sou o Fernando Meyer 👋
-<br>
+<hr>
 <p> Sou estudante da área de tecnologia. Recentemente (2021) iniciei minha faculdade em Analise e Desenvolvimento de Software , onde estou aprofundando meus conhecimentos como Developer. No meu curso aprendi muito sobre lógica de programação, e algumas linguagens, como Java, C# e Python. Além de conhecimentos de Orientação a Objetos e Metodologias ágeis. <p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-s-meyer-04b4b8186/)
@@ -7,6 +7,7 @@
 )](https://github.com/FerndMeyer)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerndMeyer&show_icons=true&theme=radical)
+<hr>
 
 ### Tecnologia do meu Dia Dia 
 
