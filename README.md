@@ -7,6 +7,7 @@
 )](https://github.com/FerndMeyer)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerndMeyer&show_icons=true&theme=radical)
+
 <hr>
 
 ### Tecnologia do meu Dia Dia 
