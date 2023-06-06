@@ -6,7 +6,6 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/FerndMeyer)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerndMeyer&show_icons=true&theme=radical)
 
 <hr>
 
